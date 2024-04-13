@@ -49,6 +49,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at [your-email@example.com].
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at .
 
 Happy ChatWaving! 🌊👋
