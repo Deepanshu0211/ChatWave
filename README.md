@@ -1,6 +1,6 @@
 # ChatWave
 
-Welcome to ChatWave! This project is a [brief description of your project, like "real-time chat application" or "community messaging platform"]. It's designed to [mention the main purpose or goal of your project, like "connect users in real-time" or "facilitate communication among team members"].
+Welcome to ChatWave! This project is a  like "real-time chat application" or "community messaging platform" idk. It's designed to  "connect users in real-time" or "facilitate communication among team members".
 
 ## Features
 
