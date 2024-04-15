@@ -42,10 +42,6 @@ We welcome contributions from the community! If you'd like to contribute to Chat
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- Special thanks to [mention any individuals, teams, or resources that helped you in the development process].
-- Emoji icons provided by [mention the source of the emoji icons, like Twemoji].
 
 ## Contact
 
